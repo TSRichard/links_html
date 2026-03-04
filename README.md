@@ -41,12 +41,12 @@ projeto-links/
 <a href="http://google.com/" target="_blank" title="Site do Google">
     Google
 </a>
-```
+
 ┌─────────────┐      link para pg1.html      ┌─────────────┐
 │  links.html │ ───────────────────────────► │   pg1.html  │
 │             │ ◄─────────────────────────── │             │
 └─────────────┘      link para links.html    └─────────────┘
-
+```
 ##🚀 Como Executar
 
 1-Clone este repositório
