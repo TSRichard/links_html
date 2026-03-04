@@ -37,13 +37,11 @@ projeto-links/
 - ✅ **`href`** - Caminho do link (destino)
 
 ## 🖥️ Exemplos do Código
-
-### 1️⃣ Link Externo (abre em nova aba)
-```html
+```
 <a href="http://google.com/" target="_blank" title="Site do Google">
     Google
 </a>
-
+```
 ┌─────────────┐      link para pg1.html      ┌─────────────┐
 │  links.html │ ───────────────────────────► │   pg1.html  │
 │             │ ◄─────────────────────────── │             │
