@@ -58,7 +58,7 @@ projeto-links/
 7-Navegue pelos links e explore as funcionalidades!
 ```
 ## 👨‍💻 Autor
-**Richard**
+**Richard Teixeira**
 ```
 Estudante de Sistemas de Informação apaixonado por tecnologia.
 📚 Atualmente: HTML, CSS e Python
