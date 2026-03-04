@@ -48,7 +48,7 @@ projeto-links/
 └─────────────┘      link para links.html    └─────────────┘
 ```
 ##🚀 Como Executar
-
+```
 1-Clone este repositório
 2-Mantenha a estrutura de pastas organizada:
 3-links.html e pg1.html na raiz
@@ -56,7 +56,7 @@ projeto-links/
 5-Currículo PDF na raiz
 6-Abra o arquivo links.html no navegador
 7-Navegue pelos links e explore as funcionalidades!
-
+```
 ## 👨‍💻 Autor
 **Richard**
 
